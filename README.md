@@ -1,2 +1,3 @@
-# Padr-es-de-Projetos-com-Java
+# Padroes-de-Projetos-com-Java
 Explorando Padrões de Projetos na Prática com Java
+Em atualização...
